@@ -1,0 +1,10 @@
+/*select2 style expediteur*/
+div.select2-container.expediteur-filter {
+    padding: 10px 0 !important;
+}
+
+.select2-container.expediteur-filter > .select2-choices {
+    border: none;
+    background-color: inherit;
+    background-image: none;
+}
